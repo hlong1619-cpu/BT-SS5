@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ol {
+  list-style: none;
+}
+ol li {
+  background-color: antiquewhite;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+li:hover {
+  background-color: red;
+}
